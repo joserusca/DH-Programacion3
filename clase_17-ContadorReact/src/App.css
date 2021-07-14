@@ -1,0 +1,27 @@
+.Container {
+  text-align: center;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+.Block {
+
+  height: 400;
+}
+
+.ContadorText {
+  font-size: 100px;
+  font-weight: bold;
+}
+
+.ContadorButtons {
+
+  display: flex;
+  justify-content: space-between;
+
+}
+
+
